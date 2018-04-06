@@ -15,7 +15,7 @@ contract JointToken is ERC20Token {
     uint256 public constant EstimatedICOBonusAmount = 14000000;
 
     address public constant RewardPoolAddress = 0xEb1FAef9068b6B8f46b50245eE877dA5b03D98C9;
-    address public constant ICOAddress = 0x;
+    address public constant ICOAddress = 0x29eC21157f19F7822432e87ef504D366c24E1D8B;
     address public constant EarlyAdoptersAddress = 0x5DD184EC1fB992c158EA15936e57A20C70761f84;
     address public constant LaunchPartnersAddress = 0x4A1943b2aB647a5150ECEc16D6Bf695f10D94E0E;
     address public constant TeamMembersAddress = 0x5a5b2715121e762B43D9A657E10AE93A5629Fe28;
