@@ -1,7 +1,7 @@
 # JOINT ICO Process 
 
 ## Whitepaper
-For detailed you can [check thitepaper](https://jointventures.io/wp.pdf)
+For detailed info, you can [check thitepaper](https://jointventures.io/wp.pdf)
 
 ## Pricing 
 - **First Round :** 1 ETH = 9600 JOINT + 9600 OPS (... - 14th April) 
@@ -15,7 +15,7 @@ For detailed you can [check thitepaper](https://jointventures.io/wp.pdf)
 - Token Contract [Etherscan](https://etherscan.io/address/0x347C099f110Ca6761779329D2879957b606b6aCE#code)
 
 ## Was there a presale phase?
-Yes, in presale phase, **5,000,000** tokens all sold.
+Yes, in presale phase, **5,000,000** JOINT sold.
 
 ## Token Distribution
 #### JOINT Team (5,000,000 JOINT)
